@@ -15,7 +15,7 @@ public class ShapesSave implements Element {
     }
 
     public String getCircle(){
-        return this.circle;
+        return circle;
     }
 
     public void setTriangle(String triangle){
@@ -23,7 +23,7 @@ public class ShapesSave implements Element {
     }
 
     public String getTriangle(){
-        return this.triangle;
+        return triangle;
     }
 
     public void setRectangle(String rectangle){
@@ -31,7 +31,7 @@ public class ShapesSave implements Element {
     }
 
     public String getRectangle(){
-        return this.rectangle;
+        return rectangle;
     }
 
     public void printShape(){
